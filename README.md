@@ -3,15 +3,15 @@ Final project of computer vision course
 
 
 We have used for classification from these deep models : 
-1- CNN
-2- VGG 16
-3- AlexNet
-4- ResNet 50
-5- Inception V3
+<p>1- CNN
+<p>2- VGG 16
+<p>3- AlexNet
+<p>4- ResNet 50
+<p>5- Inception V3
 
-we have used Noise detection and deduction from these deep models: 
-1- UNet
-2- Autoencoder 
+<p>we have used Noise detection and deduction from these deep models: 
+<p>1- UNet
+<p>2- Autoencoder 
 
 
 
