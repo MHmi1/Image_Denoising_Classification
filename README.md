@@ -9,7 +9,7 @@ We have used for classification from these deep models :
 <p>4- ResNet 50
 <p>5- Inception V3
 
-<p>we have used Noise detection and deduction from these deep models: 
+<p> We have used Noise detection and reduction from these deep models: 
 <p>1- UNet
 <p>2- Autoencoder 
 
