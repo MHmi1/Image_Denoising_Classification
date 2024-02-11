@@ -1,2 +1,2 @@
 # Image_Denoising_Classification
-Image Denoising Framework 
+Final project of computer vision course 
