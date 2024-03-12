@@ -13,5 +13,11 @@ We have used for classification from these deep models :
 <p>1- UNet
 <p>2- Autoencoder 
 
+<p> Result of denoiser models :
+<p> our metrics are PSNR,SSIM,LPIPS
+<p> <img src="https://s8.uupload.ir/files/median-filter-result_5gwf.png">
+<p> <img src="https://s8.uupload.ir/files/gaussian-filter-result_pyup.png">
+<p> <img src="https://s8.uupload.ir/files/periodic-filter-result_sm61.png">
+
 
 
