@@ -24,9 +24,13 @@ We have used for classification from these deep models :
 <p> <img src="https://s8.uupload.ir/files/median-filter-result_5gwf.png">
 <p> <img src="https://s8.uupload.ir/files/gaussian-filter-result_pyup.png">
 <p> <img src="https://s8.uupload.ir/files/periodic-filter-result_sm61.png">
+<p> <img src="https://s8.uupload.ir/files/periodic-filter-result_sm61.png">
 
-<p> Result of binary classification after applying denoiser models with VGG16 :
+
+<p> Final lap: investigating the effect of noise on image classification models
 <p> Our metrics are:  Accuracy, Sensitivity, Specificity, and F-1 Score 
+<p> <img src="https://s8.uupload.ir/files/vgg16-performance_m0w9.png" width=450 height=550>
+<p> <img src="https://s8.uupload.ir/files/inceptionv3-performance_t51f.png" width=450 height=550>
 
 
 
