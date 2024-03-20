@@ -32,6 +32,13 @@ We have used for classification from these deep models :
 <p> <img src="https://s8.uupload.ir/files/vgg16-performance_m0w9.png" width=450 height=550>
 <p> <img src="https://s8.uupload.ir/files/inceptionv3-performance_t51f.png" width=450 height=550>
 
+Result : 
+<p> <img src="https://s8.uupload.ir/files/image_2024-03-13_19-24-53_xire.png" width=750 height=320>
+<p>Periodic noise reduction (using autoencoder) -> PSNR= 26
+<p> <img src="https://s8.uupload.ir/files/image_2024-03-13_19-32-16_1e7o.png" width=750 height=320>
+<p>Gaussian noise reduction (using autoencoder) -> PSNR= 28
+   <p> <img src="https://s8.uupload.ir/files/image_2024-03-13_19-28-25_dhdk.png" width=750 height=320>
+<p>salt and pepper noise reduction (using median filter) ->  PSNR= 35
 
 
 By Mohsen Hami , Mahdi Jamebozorg
